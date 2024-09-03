@@ -1,0 +1,9 @@
+.env
+__pycache__/
+
+# original sidebot files
+www/*
+explain_plot.py
+prompt.md
+query.py
+tool.py

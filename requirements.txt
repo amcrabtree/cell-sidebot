@@ -1,0 +1,12 @@
+faicons
+shiny>=1.0.0
+shinywidgets
+plotly
+pandas
+ridgeplot
+python-dotenv
+duckdb
+kaleido # Needed for plotly write_image
+litellm>=1.43.9
+query
+explain_plot

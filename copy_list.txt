@@ -1,0 +1,7 @@
+py-sidebot/www/stars.svg
+py-sidebot/www/styles.css
+py-sidebot/explain_plot.py
+py-sidebot/prompt.md
+py-sidebot/query.py
+py-sidebot/shared.py
+py-sidebot/tool.py

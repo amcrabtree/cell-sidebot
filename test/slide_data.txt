@@ -1,0 +1,7 @@
+Image	PD-L1 Status
+Slide_1	positive
+Slide_2	negative
+Slide_3	positive
+Slide_4	positive
+Slide_5	negative
+Slide_6	negative
