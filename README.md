@@ -13,10 +13,10 @@ Adapted from J. Cheng's [sidebot repo](https://github.com/jcheng5/py-sidebot/tre
 Download cell-sidebot repo and install requirements
 ```sh
 git clone https://github.com/amcrabtree/cell-sidebot.git
-pip install -r requirements.txt
+pip install -r cell-sidebot/requirements.txt
 ```
 
-Add .env file containing your API keys for OpenAI and/or Replicate, and fill in blanks. Note that you have to pay for any OpenAI usage, but it will update the dashboard data. Replicate is free and produces SQL code and answers questions but does not seem able to update the dashboard data at this time. 
+Create a .env file containing your API keys for OpenAI and/or Replicate, and fill in blanks. Note that you have to pay for any OpenAI usage, but it will update the dashboard data. Replicate is free and produces SQL code and answers questions but does not seem able to update the dashboard data at this time. 
 
 ```sh
 printf 'OPENAI_API_KEY=""\nREPLICATE_API_TOKEN=""\n' > cell-sidebot/.env
