@@ -96,7 +96,7 @@ app_ui = ui.page_sidebar(
         #
         ui.card(
             ui.card_header(
-                "Cell count per Image",
+                "Cell counts",
                 ui.span(
                     ui.input_action_link(
                         "interpret_histogram",
