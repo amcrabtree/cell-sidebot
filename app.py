@@ -87,7 +87,7 @@ app_ui = ui.page_sidebar(
         ##########  DATA TABLE  ##########
         #
         ui.card(
-            ui.card_header("Cell data, aggregated per ROI"),
+            ui.card_header("Cell data"),
             ui.output_data_frame("table"),
             full_screen=True,
         ),
